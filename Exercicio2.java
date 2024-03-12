@@ -28,10 +28,10 @@ public class Exercicio2 {
       
          System.out.println("Digite o preço do etanol: ");
   
-         valorEtanol = entrada.nextInt();
+         valorEtanol = entrada.nextDouble();
          
          System.out.println("Agora o preço da gasolina: ");
-         valorGasolina = entrada.nextInt();
+         valorGasolina = entrada.nextDouble();
          
          setentaPorcentoGasolina = valorGasolina/100*70;
          
