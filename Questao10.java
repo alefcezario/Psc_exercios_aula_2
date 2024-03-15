@@ -12,7 +12,7 @@ public class Questao10 {
         double qtdRecomendada = peso*35/1000;
 
         System.out.println("A recomendação é que você deve consumir diáriamente: "+qtdRecomendada+" litros de água!");
+        entrada.close();
     
- 
     }
 }
