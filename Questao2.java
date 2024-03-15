@@ -1,10 +1,9 @@
 /**
- *
- * @author aluno
+ * @author alef
  */
 import java.util.Scanner;
 
-public class Exercicio2 {
+public class Questao2 {
 
     /**
      * @param args the command line arguments
