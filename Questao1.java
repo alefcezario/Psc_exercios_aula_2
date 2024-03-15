@@ -4,7 +4,7 @@
  */
 import java.util.Scanner;
 
-public class Exercicio1 {
+public class Questao1 {
 
     /**
      * @param args the command line arguments
